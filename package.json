@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-material-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "nbbpm": {
     "compatibility": "^1.0.0"
   },
@@ -23,8 +23,8 @@
   },
   "contributors": [
     {
-        "name": "Ferrari Lee",
-        "email": "shiyung@positivegrid.com"
+      "name": "Ferrari Lee",
+      "email": "shiyung@positivegrid.com"
     }
   ],
   "bugs": {

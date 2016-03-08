@@ -4,14 +4,18 @@ body {
 	font-family: roboto;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color :#000;
-	background-color: #EEEEEE;
+	color :#9A9A9A;
+	background-color: #303030;
 	font-weight: 400;
 	padding-top: 65px;
 }
 
 *, button, input, i, a {
 	-webkit-font-smoothing: antialiased;
+}
+
+a {
+    color: #ffffff;
 }
 
 *, :active, :hover {
@@ -89,27 +93,5 @@ a:hover, a:active, a:focus, a:visited {
 @media (min-width: @screen-lg-min) {
 	body.sw-toggled #content>.container {
 		width: ~"calc(100% - 30px)";
-	}
-}
-
-.status {
-	&.online {
-		background-color: @material-success;
-		color: @material-success;
-	}
-
-	&.away {
-		background-color: @material-warning;
-		color: @material-warning;
-	}
-
-	&.dnd {
-		background-color: @material-danger;
-		color: @material-danger;
-	}
-
-	&.offline {
-		background-color: #777;
-		color: #777;
 	}
 }

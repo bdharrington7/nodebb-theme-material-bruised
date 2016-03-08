@@ -1,27 +1,33 @@
 {
-  "name": "nodebb-theme-material",
-  "version": "2.5.2",
+  "name": "nodebb-theme-material-dark",
+  "version": "1.0.0",
   "nbbpm": {
     "compatibility": "^1.0.0"
   },
-  "description": "Material Design theme for NodeBB",
+  "description": "Material Design dark theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pichalite/nodebb-theme-material"
+    "url": "https://github.com/Ferrari/nodebb-theme-material-dark"
   },
   "keywords": [
     "nodebb",
     "material",
     "material design",
-    "theme",
+    "dark theme",
     "themes"
   ],
   "author": {
     "name": "pichalite",
     "email": "pichalite.com@gmail.com"
   },
+  "contributors": [
+    {
+        "name": "Ferrari Lee",
+        "email": "shiyung@positivegrid.com"
+    }
+  ],
   "bugs": {
-    "url": "https://github.com/pichalite/nodebb-theme-material/issues"
+    "url": "https://github.com/Ferrari/nodebb-theme-material-dark/issues"
   }
 }

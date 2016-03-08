@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-material",
-    "name": "Material Design",
-    "description": "Material Design Theme for NodeBB",
-    "url": "https://github.com/pichalite/nodebb-theme-material",
+    "id": "nodebb-theme-material-dark",
+    "name": "Material Design Dark Theme",
+    "description": "Material Design Dark Theme for NodeBB",
+    "url": "https://github.com/Ferrari/nodebb-theme-material-dark",
     "screenshot": "screenshot.png"
 }

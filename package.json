@@ -1,20 +1,21 @@
 {
-  "name": "nodebb-theme-material-dark",
-  "version": "1.2.0",
+  "name": "nodebb-theme-material-bruised",
+  "version": "1.0.0",
   "nbbpm": {
     "compatibility": "^1.0.0"
   },
-  "description": "Material Design dark theme for NodeBB",
+  "description": "Material Design Bruised theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ferrari/nodebb-theme-material-dark"
+    "url": "https://github.com/bdharrington7/nodebb-theme-material-bruised"
   },
   "keywords": [
     "nodebb",
     "material",
     "material design",
     "dark theme",
+    "bruised"
     "themes"
   ],
   "author": {
@@ -25,9 +26,13 @@
     {
       "name": "Ferrari Lee",
       "email": "shiyung@positivegrid.com"
+    },
+    {
+      "name": "Brian Harrington",
+      "email": "theme-bruised.bdharrington@antichef.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/Ferrari/nodebb-theme-material-dark/issues"
+    "url": "https://github.com/bdharrington7/nodebb-theme-material-bruised/issues"
   }
 }

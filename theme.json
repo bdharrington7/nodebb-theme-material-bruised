@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-material-dark",
-    "name": "Material Design Dark Theme",
-    "description": "Material Design Dark Theme for NodeBB",
-    "url": "https://github.com/Ferrari/nodebb-theme-material-dark",
+    "id": "nodebb-theme-material-bruised",
+    "name": "Material Design Bruised Theme",
+    "description": "Material Design Bruised Theme for NodeBB",
+    "url": "https://github.com/bdharrington7/nodebb-theme-material-bruised",
     "screenshot": "screenshot.png"
 }

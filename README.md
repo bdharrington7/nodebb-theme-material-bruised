@@ -1,8 +1,8 @@
-Dark Theme for NodeBB using Google Material Design
+Bruised Theme for NodeBB 
 =========================
 
-Folk from amazing [nodebb-theme-material](https://github.com/pichalite/nodebb-theme-material), just make it become dark theme.  
-Follow design rule from [Material design](https://www.google.com/design/spec/material-design/introduction.html)
+Based on the amazing [nodebb-theme-material](https://github.com/pichalite/nodebb-theme-material), originally forked from the [Material Dark](https://github.com/Ferrari/nodebb-theme-material-dark) theme. 
+Following the design rule from [Material design](https://www.google.com/design/spec/material-design/introduction.html)
 
 ## Preview
 
